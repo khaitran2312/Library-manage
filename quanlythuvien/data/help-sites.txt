@@ -1,0 +1,8 @@
+http://tienich.bambu.vn/towiac.aspx
+https://dichthuatphuongdong.com/tienich/random-ten-tieng-viet.html
+https://textedit.tools/snakecase
+https://www.bestrandoms.com/random-address-in-vn?quantity=20
+
+\b\d\d/\d\d/\d\d\d\d\s\d\d:\d\d:\d\d\b
+
+BOM IS A PROBLEM, REMEMBER TO CHECK ENCODING PROPERLY AND DELETE IT
